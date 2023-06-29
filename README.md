@@ -1,10 +1,10 @@
 # Vue-assignment
 
 - [Vue-assignment](#vue-assignment)
-  - [Techonologies](#techonologies)
+  - [Technologies](#technologies)
   - [Setup](#setup)
 
-## Techonologies
+## Technologies
 Project is created with:
 - vue 3
 - pinia
